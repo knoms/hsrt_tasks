@@ -1,7 +1,6 @@
 package Assignments.Assigment2;
 
 import hs.rt.vs.CalculationTask;
-
 import java.io.IOException;
 import java.net.Socket;
 
@@ -22,7 +21,6 @@ public class SocketTest {
 								break;
 							}
 					}
-
 
 	}
 	public static boolean runProgram() throws IOException, ClassNotFoundException {
